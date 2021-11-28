@@ -79,7 +79,7 @@
                 <StackLayout HorizontalOptions="CenterAndExpand" Spacing="7">
                     <Label x:Name="pressureTxt"  TextColor="White" FontSize="15"
                            FontAttributes="Bold" HorizontalOptions="Center" Margin="0,-5,0,0"/>
-                    <Label  Text="Pressure" TextColor="white" FontSize="15" Margin="0,-10,0,0"/>
+                    <Label  Text="Pressure" TextColor="Wheat" FontSize="15" Margin="0,-10,0,0"/>
                 </StackLayout>
             </StackLayout>
 
@@ -89,7 +89,7 @@
                 <StackLayout HorizontalOptions="CenterAndExpand" Spacing="7">
                     <Label x:Name="cloudinessTxt" TextColor="White" FontSize="15" Margin="-20,-15,0,0"
                            FontAttributes="Bold" HorizontalOptions="Center" />
-                    <Label Text="Cloudiness" TextColor="White" FontSize="15" Margin="0,-10,0,0"/>
+                    <Label Text="Cloudiness" TextColor="Wheat" FontSize="15" Margin="0,-10,0,0"/>
                 </StackLayout>
 
             </StackLayout>
